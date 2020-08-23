@@ -7,7 +7,7 @@ import pandas as pd
 
 # Importing the dataset
 dataset = pd.read_csv('Customers.csv')
-X = dataset.iloc[:, [3, 4]].values
+X = dataset.iloc[:, [5, 6]].values
 
 # Using the dendrogram to find optimal number of clusters
 import scipy.cluster.hierarchy as sch
