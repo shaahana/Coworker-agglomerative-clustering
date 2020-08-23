@@ -1,5 +1,15 @@
-EmployeeID,Gender,NumberofYearsatCompanyX,Pasttimes,CareerGoals
-157,Male,37,"eating bread, watching tv", retiring soon
-159,Male,34,78,1
-201,Female,19,137,1
-9,Male,64,19,3
+EmployeeID,Gender,FirstName, LastName, NumberofYearsatCompanyX,Pasttimes,CareerGoals
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+157,Male,37, John, Doe, "eating bread, watching tv", retiring soon
+
